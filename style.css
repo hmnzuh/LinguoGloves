@@ -1,0 +1,40 @@
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+  }
+  #Applepie {
+    
+      width: 100vh;
+      object-fit: cover;
+  }
+  footer {
+background-color: #ffffff;
+color: #616161;
+padding: 20px;
+text-align: center;
+}
+
+#footer-links a {
+color: #000000;
+margin: 0 10px;
+text-decoration: none;
+}
+
+#footer-links a:hover {
+text-decoration: underline;
+}
+
+
+#footer-copyright {
+margin-top: 10px;
+font-size: 14px;
+}
+
+@media (max-width : 430px ) {
+  #ProductImage {
+    width: 100%;
+    object-fit: cover;
+  }
+}
+
