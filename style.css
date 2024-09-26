@@ -3,9 +3,9 @@
     height: 4rem;
     border-radius: 0.75rem;
   }
-  #Applepie {
+  #ProductImage {
     
-      width: 100vh;
+      width: 100%;
       object-fit: cover;
   }
   footer {
@@ -29,11 +29,4 @@ text-decoration: underline;
 #footer-copyright {
 margin-top: 10px;
 font-size: 14px;
-}
-
-@media (max-width : 1430px ) {
-  #ProductImage {
-    width: 100%;
-    object-fit: cover;
-  }
 }
