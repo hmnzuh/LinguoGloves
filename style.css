@@ -31,10 +31,9 @@ margin-top: 10px;
 font-size: 14px;
 }
 
-@media (max-width : 430px ) {
+@media (max-width : 1430px ) {
   #ProductImage {
     width: 100%;
     object-fit: cover;
   }
 }
-
