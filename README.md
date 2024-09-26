@@ -1,1 +1,1 @@
-# Linguogloves
+# LinguoGloves
